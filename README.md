@@ -20,5 +20,6 @@ A small Python module that evaluates used book trade-in values across formats, w
 | `BranchCoverageTest_bookstore_trade_in.py` | Tests for branch coverage |
 | `code_coverage.png`, `branch_coverage.png` | Coverage output screenshots |
 | `Lab6_Coverage_Screenshots.docx` | Screenshots document |
+| `Lab7/` | Lab 7: Fuzz testing with Hypothesis (see `Lab7/README.md`) |
 
 Refer to the lab handout for instructions.
